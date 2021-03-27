@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShowropHaque
 - 👀 I’m interested in web design and development and also softwear development
 - 🌱 I’m currently learning web design 
-- 💞️ I’m looking to collaborate on web design
+- 💞️ I’m looking to collaborate on Open source
 - 📫 How to reach me ...
 
 <!---
